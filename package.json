@@ -1,6 +1,6 @@
 {
   "name": "raster-tile-style",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helper function for creating mapbox styles for serving raster tiles.",
   "main": "index.js",
   "scripts": {
