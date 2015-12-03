@@ -1,0 +1,26 @@
+{
+  "name": "raster-tile-style",
+  "version": "1.0.0",
+  "description": "Helper function for creating mapbox styles for serving raster tiles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicapow/raster-tile-style.git"
+  },
+  "keywords": [
+    "mapbox-gl",
+    "mapbox-gl-ls",
+    "react-map-gl",
+    "raster",
+    "tile"
+  ],
+  "author": "Victor Powell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vicapow/raster-tile-style/issues"
+  },
+  "homepage": "https://github.com/vicapow/raster-tile-style#readme"
+}
