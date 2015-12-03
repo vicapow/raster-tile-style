@@ -18,7 +18,7 @@ function rasterTileStyle(tiles, tileSize) {
         id: 'raster-tile-layer',
         type: 'raster',
         source: 'raster-source',
-        'source-layer': 'rastor_full',
+        'source-layer': 'raster_full',
         paint: {
           'raster-opacity': 1
         }
